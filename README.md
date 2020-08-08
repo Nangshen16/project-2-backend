@@ -29,24 +29,17 @@ Include link to your google sheet here.  Here is the sample [Suresh had used in 
 ## Wireframes
 
  mobile:
-https://res.cloudinary.com/dfmeqlgua/image/upload/v1596227438/IMG-0680_i7ldlj.jpg
+https://res.cloudinary.com/dcrioc0sw/image/upload/v1596903482/117190395_702364720343769_3258366353163671472_n_m2lgjs.jpg
 
-tablet:
-https://res.cloudinary.com/dfmeqlgua/image/upload/v1596227439/IMG-0684_mdk5fm.jpg
 
 desktop:
-page: 1
-https://res.cloudinary.com/dfmeqlgua/image/upload/v1596227438/IMG-0681_ubppuo.jpg
-page: 2
-https://res.cloudinary.com/dfmeqlgua/image/upload/v1596227438/IMG-0682_iejpt8.jpg
-
+https://res.cloudinary.com/dcrioc0sw/image/upload/v1596903539/117391328_2759925677665947_4499860696634054612_n_y2ggjm.jpg
 
 
 ## Time/Priority Matrix 
 
 link:
-https://res.cloudinary.com/dfmeqlgua/image/upload/v1596227438/IMG-0674_s0rj8v.jpg
-
+https://res.cloudinary.com/dcrioc0sw/image/upload/v1596903573/116840024_737708347011306_7629405577313083079_n_pjd1or.jpg
 
 
 ### MVP/PostMVP - 5min
@@ -66,9 +59,9 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 ## Functional Components
 
-Based on the initial logic defined in the previous sections try and breakdown the logic further into functional components, and by that we mean functions.  Try and capture what logic would need to be defined if the game was broken down into the following categories.
+Based on the initial logic defined in the previous sections try and breakdown the logic further into functional components, and by that we mean functions.  Try and capture what logic would need to be defined if the list was broken down into the following categories.
 
-Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe.
+Time frames are also key in the development cycle.  You have limited time to code all phases of the ingrdients.  
 
 #### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
